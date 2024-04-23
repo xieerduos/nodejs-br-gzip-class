@@ -2,6 +2,14 @@
 
 ## 运行
 
+node version v18.16.0
+
+```bash
+node -v
+```
+
+start
+
 ```
 node index.js
 ```
